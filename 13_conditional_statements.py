@@ -1,5 +1,6 @@
 age = int(input("Enter your age: "))
 
+# conditional statements
 if age > 120:
     print("You are too old to watch this content!")
 elif age >= 18:
