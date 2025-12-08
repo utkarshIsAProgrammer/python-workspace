@@ -1,4 +1,4 @@
-# calculator program
+# simple calculator program
 
 print("Operations: (+, -, *, /)")
 operation = input("Choose an operation: ")
