@@ -1,3 +1,5 @@
+# arithmetic operators
+
 friends = 0
 print(friends)
 
