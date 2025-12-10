@@ -11,7 +11,7 @@ class Animal:
         return f"{self.name} is sleeping."
 
 
-# derived class
+# derived classes
 class Dog(Animal):
     def speak(self):
         return "Woof!"
